@@ -1,5 +1,5 @@
 <section class="phx-hero">
-  <h1><%= gettext "Welcome to %{name}!", name: "Squire" %></h1>
+  <h1><%= gettext "Welcome to %{name}!", name: "BoardSquire" %></h1>
   <p>BoardSquire from prototype to production</p>
 </section>
 
